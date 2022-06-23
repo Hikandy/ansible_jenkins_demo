@@ -1,0 +1,4 @@
+-  name: lesson 8 lab
+   hosts: lamp
+   roles:
+   -  apache

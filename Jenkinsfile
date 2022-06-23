@@ -10,6 +10,5 @@ pipeline {
                 ansiblePlaybook becomeUser: 'ansible', colorized: true, disableHostKeyChecking: true, installation: 'ansible', inventory: 'inventory', playbook: 'lab8.yaml'
             }
         }
-        }
     }
 }

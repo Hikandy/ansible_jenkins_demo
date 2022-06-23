@@ -1,6 +1,6 @@
-ansible1.example.com
+192.168.122.41	
 
 [lamp]
-ansible2.example.com
+192.168.122.51
 
 
